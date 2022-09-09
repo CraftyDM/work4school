@@ -1,0 +1,3 @@
+[submodule "miniProjectSQL"]
+	path = miniProjectSQL
+	url = git@github.com:CraftyDM/miniProjectSQL.git
